@@ -26,4 +26,6 @@ public class TestSuper extends Animal {
 		TestSuper aSuper = new TestSuper();
 		aSuper.display();
 	}
+	
+	
 }
