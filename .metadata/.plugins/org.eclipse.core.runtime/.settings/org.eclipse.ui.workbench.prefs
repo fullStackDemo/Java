@@ -1,0 +1,18 @@
+//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.m2e.discovery;
+eclipse.preferences.version=1
+org.eclipse.compare.contentmergeviewer.TextMergeViewer=1|Menlo|16.0|0|COCOA|1|;
+org.eclipse.debug.ui.DetailPaneFont=1|Menlo|16.0|0|COCOA|1|;
+org.eclipse.debug.ui.MemoryViewTableFont=1|Menlo|16.0|0|COCOA|1|;
+org.eclipse.debug.ui.consoleFont=1|Menlo|16.0|0|COCOA|1|;
+org.eclipse.egit.ui.CommitMessageEditorFont=1|Menlo|16.0|0|COCOA|1|;
+org.eclipse.egit.ui.CommitMessageFont=1|Menlo|16.0|0|COCOA|1|;
+org.eclipse.egit.ui.DiffHeadlineFont=1|Menlo|16.0|0|COCOA|1|;
+org.eclipse.jdt.internal.ui.compare.JavaMergeViewer=1|Menlo|16.0|0|COCOA|1|;
+org.eclipse.jdt.internal.ui.compare.PropertiesFileMergeViewer=1|Menlo|16.0|0|COCOA|1|;
+org.eclipse.jdt.ui.PropertiesFileEditor.textfont=1|Menlo|16.0|0|COCOA|1|;
+org.eclipse.jdt.ui.editors.textfont=1|Menlo|16.0|0|COCOA|1|;
+org.eclipse.jface.textfont=1|Menlo|16.0|0|COCOA|1|;
+org.eclipse.mylyn.wikitext.ui.presentation.textFont=1|Menlo|16.0|0|COCOA|1|;
+org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+COMMAND+ARROW_DOWN"/>\n<keyBinding commandId\="org.eclipse.jdt.ui.specific_content_assist.command" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+&apos;">\n<parameter id\="org.eclipse.jdt.ui.specific_content_assist.category_id" value\="org.eclipse.jdt.ui.templateProposalCategory"/>\n</keyBinding>\n<keyBinding contextId\="org.eclipse.jdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+F"/>\n<keyBinding commandId\="org.eclipse.ui.edit.text.copyLineDown" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+D"/>\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+D"/>\n<keyBinding commandId\="org.eclipse.ui.edit.text.delete.line" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+X"/>\n<keyBinding contextId\="org.eclipse.ant.ui.AntEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+F"/>\n<keyBinding commandId\="org.eclipse.jdt.ui.edit.text.java.format" contextId\="org.eclipse.ant.ui.AntEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+COMMAND+F"/>\n<keyBinding contextId\="org.eclipse.wst.sse.ui.structuredTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+F"/>\n<keyBinding commandId\="org.eclipse.jdt.ui.edit.text.java.format" contextId\="org.eclipse.jdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+COMMAND+F"/>\n<keyBinding commandId\="org.eclipse.wst.sse.ui.format.document" contextId\="org.eclipse.wst.sse.ui.structuredTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+COMMAND+F"/>\n<keyBinding commandId\="org.eclipse.mylyn.builds.ui.command.RunBuild" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F5"/>\n</org.eclipse.ui.commands>
+org.eclipse.wst.sse.ui.textfont=1|Menlo|16.0|0|COCOA|1|;
