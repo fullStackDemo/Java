@@ -35,7 +35,7 @@ public class SystemArrayCopy {
 
 		desUsers[0].SetEmail("88@mail.com");
 
-		System.out.println(users[0] == desUsers[0] ? "浅复制" : "深复制");
+//		System.out.println(users[0] == desUsers[0] ? "浅复制" : "深复制");
 
 		for (User user : desUsers) {
 			System.out.println(user.toString());
